@@ -1,5 +1,3 @@
-![Banner Pabloalber84](https://raw.githubusercontent.com/pabloalber84/pabloalber84/master/assets/5488082.jpg)
-
 ## 👋 &nbsp;Hola, soy Pabloalber84
 
 ### 👨🏻‍💻 &nbsp;Acerca de mi
@@ -29,11 +27,8 @@
 
 
 ### 🤝🏻 &nbsp;Contacto
-
-<p align="center">
 <!-- <a href="https://pabloalber84.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/pabloalber84"><img src="https://img.shields.io/badge/-Pabloalber84-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pabloalber84@gmail.com"><img src="https://img.shields.io/badge/pabloalber84@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
 
 <!-- Part Template from AVS1508 -->
