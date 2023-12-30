@@ -7,7 +7,7 @@
 👷‍♂️ &nbsp;Me gustan demasiado los desafíos que requieren de un análisis abstracto para poder ser resueltos.\
 ✏ &nbsp;En mis tiempos libres, me gusta aprender cosas nuevas, ando en constante actualización.\
 💬 &nbsp;Abierto a diálogo para soporte y negocios en proyectos.\
-✉️ &nbsp;Siéntente libre de poder enviarme a pabloalber84@gmail.com! Usualmente, no tardo mucho en responder.\
+✉️ &nbsp;Siéntente libre de poder enviarme a pabloalber84@gmail.com! Usualmente, no tardo mucho en responder.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/pabloalber84/pabloalber84/master/assets/Night-Coding.gif" align="right"/>
 
