@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;Acerca de mi
 
-💡 &nbsp;Soy un estudiante de último año de Ingeniería en Sistemas Computacionales.\
-🎓 &nbsp;Estoy estudiando Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Tijuana.\
+💡 &nbsp;Soy un Ingeniero en Sistemas Computacionales.\
+🎓 &nbsp;Estudie en el Instituto Tecnológico de Tijuana.\
 👷‍♂️ &nbsp;Me gustan demasiado los desafíos que requieren de un análisis abstracto para poder ser resueltos.\
 ✏ &nbsp;En mis tiempos libres, me gusta aprender cosas nuevas, ando en constante actualización.\
 💬 &nbsp;Abierto a diálogo para soporte y negocios en proyectos.\
